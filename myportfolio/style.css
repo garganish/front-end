@@ -1,0 +1,33 @@
+#logo_design {
+	width: 30%;
+    height: 30%;
+}
+
+#about
+{
+	font-size: 25px;
+}
+
+#sections {
+	width: 100%;
+}
+#imgs {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+   
+}
+#pid {
+	text-align: center;
+	font-style: bold;
+	font-style: italic;
+}
+#align {
+	text-align: center;
+	padding: 20px;
+}
+#imgs1 {
+	width: 100%;
+}
+

@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+Ans1> I have learned how to use various html tags.How to insert an image ,create a link,headings,Use the HTML inline text semantic to define the meaning, structure, or style of a word, line, or any arbitrary piece of text like strong tag,br tag,p tag,span,strike and many more.
+
+Ans2>There are many tags which are used in every webpage like div ,p,br ,span,img,attribute headings etc so I am very familiar with many tags.now it is easy for me to use these tags in my webpages.
+
+Ans3>Everything is easy if you practice Although there are a lot of tags so i have to do more excercise
